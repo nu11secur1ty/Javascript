@@ -1,3 +1,5 @@
+#!/usr/bin/js
+
 const one = +true; //This would return 1 (Unary and boolean operator)
 const zero = +false; // This would return 0 (Unary and boolean operator)
 //Using string operations apending 1 and 0 and 0 to form "100"
