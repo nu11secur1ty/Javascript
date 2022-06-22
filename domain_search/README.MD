@@ -15,4 +15,8 @@ bash izrud.sh
 ```
 6. check result.txt
 
+## In Action:
+![](https://github.com/nu11secur1ty/Javascript/blob/master/domain_search/Docs/izrud.gif)
+
+
 ## Done =)
