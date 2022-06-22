@@ -1,4 +1,4 @@
-## Usage of `domain_search` with the integer on the front and rear of the domain
+## Usage of `domain_search` with the integer on the front and rear of the `int.domain.int.com`
 
 1. Install node
 - For Kali Linux
