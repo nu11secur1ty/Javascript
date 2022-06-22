@@ -9,7 +9,10 @@ apt install nodejs
 ```bash
 wget https://raw.githubusercontent.com/nu11secur1ty/Javascript/master/domain_search/izrud.sh
 ```
-4. Run izrud.sh
-5. check result.txt
+4. Run izrud.sh and follow the questions
+```bash
+bash izrud.sh
+```
+6. check result.txt
 
 ## Done =)
