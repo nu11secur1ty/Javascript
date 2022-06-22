@@ -1,4 +1,4 @@
-## Usage of `domain_search` for int.domain.int> int forward and int backward
+## Usage of `domain_search` with the integer on the front and rear of the domain
 
 1. Install node
 - For Kali Linux
